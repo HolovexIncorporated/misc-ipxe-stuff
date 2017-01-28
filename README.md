@@ -1,4 +1,4 @@
-# iPXE config scripts
+# Misc. iPXE related stuff.
 
 Various scripts used mainly while compiling iPXE (i.e. [embeded scripts](http://ipxe.org/embed)).
 Though also this repo will probably be populated with other misc scripts later on.
