@@ -1,7 +1,7 @@
 # How I compile the various iPXE binaries that I use
 
-I mainly compile two `iPXE` binaries, `iPXE.efi` and `undionly.kpxe`. The
-binaries are then usually served via `isc-dhcpd` via `PXE` (i.e. [chainloaded](http://ipxe.org/howto/chainloading)).<sup>[1]</sup>
+I mainly compile two forms of `iPXE`, `iPXE.efi` and `undionly.kpxe`. The
+files are then usually served via `isc-dhcpd` via `PXE` (i.e. [chainloaded](http://ipxe.org/howto/chainloading)).<sup>[1]</sup>
 
 ## `ipxe.efi`
 
