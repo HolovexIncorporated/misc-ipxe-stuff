@@ -1,0 +1,4 @@
+#!ipxe
+
+dhcp || shell
+chain http://adriankoshka.xyz/winpe/boot.ipxe || shell
