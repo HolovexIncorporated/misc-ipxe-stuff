@@ -3,9 +3,9 @@
 I mainly compile two `iPXE` binaries, `iPXE.efi` and `undionly.kpxe`. The
 binaries are then usually served via `isc-dhcpd` via `PXE` (i.e. [chainloaded](http://ipxe.org/howto/chainloading)).<sup>[1]</sup>
 
-## `iPXE.efi`
+## `ipxe.efi`
 
-`iPXE.efi` is a UEFI PE executable, meant to be used on UEFI compliant systems.
+`ipxe.efi` is a UEFI PE executable, meant to be used on UEFI compliant systems.
 
 ```bash
 make -j 8 EMBED=shelldrop.ipxe bin-x86_64-efi/ipxe.efi
