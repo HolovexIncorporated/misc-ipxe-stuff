@@ -1,2 +1,1 @@
-#define CONSOLE_VESAFB        /* VESA framebuffer console */
-#define CONSOLE_VESAFB       /* VESA framebuffer console */
+#define CONSOLE_FRAMEBUFFER  /* Graphical framebuffer console */ 
