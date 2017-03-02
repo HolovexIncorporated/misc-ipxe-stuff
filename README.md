@@ -24,6 +24,7 @@ Though also this repo will probably be populated with other misc things later on
 - embeded: Contains scripts I embed into iPXE during compile time
 - notes: Contains various notes related to what I do with iPXE
 - `config/local/`: A copy of my `ipxe/src/config/local` files.
+- `CHANGELOG.md`: a change log for the project.
 
 ## License
 
