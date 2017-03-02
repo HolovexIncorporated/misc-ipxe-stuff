@@ -7,10 +7,18 @@ Though also this repo will probably be populated with other misc things later on
 
 ```
 .
+├── CHANGELOG.md
+├── config
+│   └── local
+│       ├── console.h
+│       └── general.h
 ├── embeded
+│   ├── shelldrop.ipxe
+│   └── winpe.ipxe
+├── LICENSE
 ├── notes
-└── config
-    └── local
+│   └── compile.md
+└── README.md
 ```
 
 - embeded: Contains scripts I embed into iPXE during compile time
