@@ -26,7 +26,7 @@ Though also this repo will probably be populated with other misc things later on
 - `config/local/`: A copy of my `ipxe/src/config/local` files.
 - `CHANGELOG.md`: a change log for the project.
 
-## License
+## License ![GPLv3 logo](https://www.gnu.org/graphics/gplv3-127x51.png)
 
 This project is under the [GPLv3 license](LICENSE). Unless otherwise stated in individual files.
 
