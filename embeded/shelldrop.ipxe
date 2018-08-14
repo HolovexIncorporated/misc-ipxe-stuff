@@ -1,3 +1,0 @@
-#!ipxe
-dhcp || shell
-shell
